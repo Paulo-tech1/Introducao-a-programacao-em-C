@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1640639866 source:e:\curso de linguagem em c\facudade cic introdução a programação\av2_exer_01\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdlib.h>
+
